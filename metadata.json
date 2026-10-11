@@ -1,0 +1,6 @@
+{
+  "name": "Apex Labs Athletic Nutrition",
+  "description": "High-performance athletic sports nutrition, bio-formulas, and ISO-certified lab batch transparency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
